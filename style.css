@@ -1,0 +1,55 @@
+
+
+h1, h2, h3 {
+  color: darkblue;
+  font-family: 'Oswald', sans-serif;
+}
+
+p, li{
+  color: darkblue;
+  font-family: 'Open Sans', sans-serif;
+}
+
+html{
+
+  background-color: ivory;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+
+}
+
+img{
+  width: 100px;
+  float: left;
+
+margin-right: 10px;
+
+}
+
+#navbar ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#navbar a {
+  margin-left: 75px;
+  margin-right: 75px;
+
+}
+
+#navbar li{
+
+  display: inline;
+
+}
+
+.section {
+  width: 300px;
+  float: left;
+  margin: 50px;
+}
+
+
